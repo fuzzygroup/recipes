@@ -11,8 +11,8 @@ email: fuzzygroup [at] gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   This is my personal collection of gluten free recipes.  I used to use KeyIngredient but as that has become progressively worse 
   I moved everything to my local box and published it on github using this tutorial: <a href='https://24ways.org/2013/get-started-with-github-pages/'>Github Pages</a>.
-baseurl: /recipes_gluten_free # the subpath of your site, e.g. /blog
-url: "http://fuzzygroup.github.io/recipes_gluten-free" # the base hostname & protocol for your site
+baseurl: /recipes # the subpath of your site, e.g. /blog
+url: "http://fuzzygroup.github.io/recipes" # the base hostname & protocol for your site
 twitter_username: fuzzygroup
 github_username:  fuzzygroup
 
