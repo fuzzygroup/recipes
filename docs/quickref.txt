@@ -1,0 +1,5 @@
+  520  jekyll new ~/fuzzygroup/recipes_gluten_free/
+  526  jekyll serve --watch
+  538  bundle exec jekyll draft "Classic Creme Brulee"
+  552  jekyll publish _drafts/chicken-with-ranchera-salsa.md
+  553  jekyll serve --watch
