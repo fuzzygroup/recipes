@@ -1,0 +1,15 @@
+https://fuzzygroup.github.io/recipes_gluten_free/
+
+http://127.0.0.1:4000/recipes_gluten_free/
+
+https://24ways.org/2013/get-started-with-github-pages/
+
+http://frontendcollisionblog.com/javascript/jekyll/tutorial/2015/03/26/getting-started-with-a-search-engine-for-your-site-no-server-required.html
+
+http://mattallan.org/2016/github-pages-best-practices/
+
+https://konklone.com/post/the-power-and-potential-of-github-pages
+
+https://github.com/blog/2162-better-discoverability-for-github-pages-sites
+
+https://github.com/jekyll/jekyll-seo-tag
