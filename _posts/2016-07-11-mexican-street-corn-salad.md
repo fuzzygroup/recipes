@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Mexican Street Corn Salad
-categories: gluten_free, salad
+tags: 
+  - gluten_free
+  - salad
 ---
 # Ingredients
 

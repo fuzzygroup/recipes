@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Lava Dip from Reddit
-tags: [gluten_free, appetizers]
+tags: 
+  - gluten_free
+  - appetizer
 ---
 
 # Ingredients

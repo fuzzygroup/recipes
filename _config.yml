@@ -20,3 +20,4 @@ github_username:  fuzzygroup
 markdown: kramdown
 gems:
   - jekyll-seo-tag
+  - jekyll-lunr-js-search

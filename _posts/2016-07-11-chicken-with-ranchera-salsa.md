@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chicken with Ranchera Salsa
-categories: gluten_free
+tags:
+  - gluten_free
+  - mexican
 ---
 # Ingredients
 

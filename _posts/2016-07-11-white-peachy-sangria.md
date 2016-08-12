@@ -1,7 +1,8 @@
 ---
 layout: post
 title: White Peachy Sangria
-tags: [cocktails]
+tags:
+  - cocktail
 ---
 
 # Ingredients
