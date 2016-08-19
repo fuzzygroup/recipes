@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Coconut Tequila Seared Shrimp aka Zoila's Favorite Shrimp
+tags:
   - gluten_free
   - main_course
 ---
