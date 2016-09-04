@@ -1,9 +1,8 @@
 ---
 layout: post
 title: Lava Dip from Reddit
-tags: 
-  - gluten_free
-  - appetizer
+category: dip
+tags: ["gluten_free", "dip", "mexican"]
 ---
 
 # Ingredients

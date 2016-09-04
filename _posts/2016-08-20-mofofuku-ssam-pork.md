@@ -1,9 +1,8 @@
 ---
 layout: post
 title: Mofofuku Ssam Pork
-tags:
-  - gluten_free
-  - main_course
+category: pork
+tags: ["gluten_free", "pork", "main_course"]
 ---
 
 One of the single best meals that any of us have ever had.  Here's the [original source](http://cooking.nytimes.com/recipes/12197-momofukus-bo-ssam).  There are several sauces that come with this but, honestly, they just aren't needed.  This pork is so delicious so it honestly is perfect all on its own.

@@ -1,20 +1,19 @@
 ---
 layout: post
 title: Tomatillo Sauce
-tags:
-  - gluten_free
-  - mexican
-  - sauce 
+category: mexican
+tags: ["gluten_free", "sauce", "mexican"]
 ---
 
-Ingredients
+# Ingredients
+ 
 * 8 ounces (5 to 6 medium) tomatillos, husked and rinsed
 * Fresh hot green chiles, to taste (roughly 2 serranos or 1 jalapeno), stemmed
 * 5 or 6 sprigs fresh cilantro (thick stems removed), roughly chopped
 * Scant 1/4 cup finely chopped onion
 * Salt
 
-Steps:
+# Steps:
 
 Preheat a broiler.
 

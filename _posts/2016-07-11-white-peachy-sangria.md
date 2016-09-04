@@ -1,8 +1,8 @@
 ---
 layout: post
 title: White Peachy Sangria
-tags:
-  - cocktail
+category: cocktail
+tags: ["gluten_free", "cocktail"]
 ---
 
 # Ingredients

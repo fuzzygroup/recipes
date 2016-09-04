@@ -1,9 +1,8 @@
 ---
 layout: post
 title: Frozen Lemon Peach Cocktail
-tags:
-  - gluten_free
-  - cocktail
+category: cocktail
+tags: ["gluten_free", "cocktail"]
 ---
 
 

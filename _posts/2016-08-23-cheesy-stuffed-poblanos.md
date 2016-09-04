@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Cheesy Stuffed Poblanos
-tags:
-  - gluten_free
-  - side_dish
+category: mexican
+tags: ["gluten_free", "side_dish"]
 ---
 
-Ingredients
+# Ingredients
+
 * 5 poblano peppers
 * Left over rice (one medium tupperware container)
 * 1 bunch green onions diced
@@ -19,7 +19,7 @@ Ingredients
 * 1/4 cup minced cilantro
 * 4 cloves garlic minced
 
-Steps:
+# Steps:
 
 1.  Preheat oven to 425.  Put rice, green onions, bread crumbs, chili powder, oregano, lime juice eggs, goat cheese, cilantro and garlic in kitchen aid and mix thoroughly until combined.
 2.  Slit down the middle of the poblano peppers and microwave them for 3 minutes.

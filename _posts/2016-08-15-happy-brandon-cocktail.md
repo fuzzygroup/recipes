@@ -1,9 +1,8 @@
 ---
 layout: post
 title: Happy Brandon Cocktail
-tags:
-  - gluten_free
-  - cocktail
+category: cocktail
+tags: ["gluten_free", "cocktail"]
 ---
 
 

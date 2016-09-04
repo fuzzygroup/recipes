@@ -1,6 +1,9 @@
 ---
 layout: post
 title: African Peanut Soup
+category: soup
+tags: ["gluten_free", "soup"]
+
 tags:
   gluten_free
   soup

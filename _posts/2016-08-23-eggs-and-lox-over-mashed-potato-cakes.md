@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Eggs and Lox Over Mashed Potato Cakes
-tags:
-  - gluten_free
-  - main_course
+category: eggs
+tags: ["gluten_free", "eggs", "main_course", "breakfast"]
 ---
 
-Ingredients
+# Ingredients
+
 * 2 eggs
 * Left over mashed potatoes
 * Grapeseed oil (yes this actually matters)
@@ -14,7 +14,7 @@ Ingredients
 * Parmesan Cheese
 * Salt and Pepper
 
-Steps:
+# Steps:
 
 1.  Form mashed potatoes into two thin patties.
 2.  In small frying pan heat oil and then pan fry the potato patties on both sides until slightly browned.

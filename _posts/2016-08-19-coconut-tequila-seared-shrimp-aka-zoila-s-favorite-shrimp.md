@@ -1,9 +1,8 @@
 ---
 layout: post
 title: Coconut Tequila Seared Shrimp aka Zoila's Favorite Shrimp
-tags:
-  - gluten_free
-  - main_course
+category: mexican
+tags: ["gluten_free", "shrimp", "mexican"]
 ---
 
 This one was all me based on Shelley's favorite flavors (cilantro, tequila, shrimp).

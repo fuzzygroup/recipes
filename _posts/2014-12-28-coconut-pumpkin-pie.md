@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Coconut Pumpkin Pie
-tags:
-  -- gluten_free
-  -- desert
+category: desert
+tags: ["gluten_free", "holiday", "pie", "desert"]
+
 ---
 
 # Ingredients
