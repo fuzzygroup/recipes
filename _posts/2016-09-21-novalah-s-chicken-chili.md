@@ -15,7 +15,7 @@ Havalah is a neighbor of ours that has fed us a wonderful *Southwestern Chicken 
 * 1 diced red onion
 * 1 diced white onion
 * 2 jalapenos diced
-* 2 peppers diced
+* 2 poblano peppers diced
 * 5 cloves garlic diced
 * 1 4 - ounce can diced green chiles
 * 1 teaspoon salt
