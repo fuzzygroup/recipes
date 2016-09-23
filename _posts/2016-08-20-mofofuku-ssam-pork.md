@@ -15,12 +15,14 @@ I'd also recommend cooking it with the fat cap on top so the rendered fat bastes
 
 
 PORK BUTT:
+
 * 1 whole bone-in pork butt or picnic ham (8 to 10 pounds)
 * 1 cup white sugar
 * 1 cup plus 1 tablespoon kosher salt
 * 7 tablespoons brown sugar
 
 GINGER-SCALLION SAUCE:
+
 * 2 ½ cups thinly sliced scallions, both green and white parts
 * ½ cup peeled, minced fresh ginger
 * ¼ cup neutral oil (like grapeseed)
@@ -29,12 +31,14 @@ GINGER-SCALLION SAUCE:
 * ½ teaspoon kosher salt, or to taste
 
 SSAM SAUCE:
+
 * 2 tablespoons fermented bean-and-chili paste (ssamjang, available in many Asian markets, and online)
 * 1 tablespoon chili paste (kochujang, available in many Asian markets, and online)
 * ½ cup sherry vinegar
 * ½ cup neutral oil (like grapeseed)
 
 ACCOMPANIMENTS:
+
 * 2 cups plain white rice, cooked
 * 3 aheads bibb lettuce, leaves separated, washed and dried
 * 1 dozen or more fresh oysters (optional)
