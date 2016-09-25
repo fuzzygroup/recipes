@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Max's Gluten Free Double Chocolate Cookies
+category: cookie
+tags: ["cookie", "gluten_free", "dessert"]
 ---
 # Ingredients
 
