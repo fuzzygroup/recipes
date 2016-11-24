@@ -12,7 +12,7 @@ tags: ["shrimp", "gluten_free"]
 * 55 m 6 servings 273 cals
 * 3 cloves garlic, minced 
 * 1/3 cup olive oil
-* 1/4 cup tomato sauce
+* 1/4 cup tomato sauce **-or-** 1/4 cup diced fire roasted tomatoes + 1/2 tsp italian spices (this is better); coarsely dice the tomatoes even further using a plunge whisker
 * 2 tablespoons red wine vinegar 
 * 2 tablespoons chopped fresh basil 
 * 1/2 teaspoon salt 
