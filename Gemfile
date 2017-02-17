@@ -9,5 +9,6 @@ group :jekyll_plugins do
   gem 'jekyll-seo-tag'
   gem 'jekyll-lunr-js-search'
   gem 'jekyll-tagging'
+  gem 'jekyll-sitemap'
   #gem 'jekyll-gallery-generator'
 end

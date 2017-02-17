@@ -148,8 +148,9 @@ DEPENDENCIES
   jekyll-compose
   jekyll-lunr-js-search
   jekyll-seo-tag
+  jekyll-sitemap
   jekyll-tagging
   tmuxinator
 
 BUNDLED WITH
-   1.13.0.rc.1
+   1.13.7

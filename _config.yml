@@ -21,6 +21,7 @@ markdown: kramdown
 gems:
   - jekyll-seo-tag
   - jekyll-lunr-js-search
+  - jekyll-sitemap
   
 #
 # gallery:
