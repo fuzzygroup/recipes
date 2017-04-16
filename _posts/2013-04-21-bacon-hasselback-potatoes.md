@@ -19,7 +19,7 @@ Sea salt and freshly ground pepper
 
 Lay the bacon pieces on a baking sheet and freeze until hard, about 30 minutes. Meanwhile, preheat the oven to 350 degrees F. Bring a large pot of salted water to a boil.
 
-Using a sharp knife, make crosswise cuts in each potato, about 1/8 inch apart, stopping about 1/4 inch from the bottom.
+Using a sharp knife, make crosswise cuts in each potato, about 1/8 inch apart, stopping about 1/4 inch from the bottom.  To do this easily place the potato in a large spoon so the know cannot reach the bottom of the potato (trust me this actually works).
 
 Add the potatoes to the boiling water and cook 4 minutes. Remove with a slotted spoon and carefully transfer to a baking sheet; let cool slightly. Pat the potatoes dry, then insert 3 pieces of the frozen bacon into the cuts of each potato, spacing the bacon evenly and letting it poke out of the top. Melt 5 tablespoons butter and brush generously over the potatoes and in the cuts. Reserve any excess butter for basting. Season the potatoes with salt and pepper.
 
