@@ -4,7 +4,7 @@ title: Gluten Free Cornbread Stuffing
 category: side_dish
 tags: ["stuffing", "side_dish", "thanksgiving"]
 ---
-Gluten free stuffing has long been a holy grail recipe for myself and my family.  I've probably tried two dozen different approaches and I'm happy to say that I have finally come up with one.  The secret to this is a new product from Bob's Red Mill -- a [Gluten Free Cornbread Mix] (https://www.amazon.com/Bobs-Red-Mill-Gluten-Cornbread/dp/B00I8G3XH0/ref=sr_1_2_a_it?ie=UTF8&qid=1478376048&sr=8-2&keywords=bob%27s+red+mill+gluten+free+cornbread+mix) that is better than any other I've ever seen.  Please note that even tho the one I've linked to on Amazon is currently under review, you want this one, not the one in the yellow packaging.
+Gluten free stuffing has long been a holy grail recipe for myself and my family.  I've probably tried two dozen different approaches and I'm happy to say that I have finally come up with one.  The secret to this is a new product from Bob's Red Mill -- a [Gluten Free Cornbread Mix](https://www.amazon.com/Bobs-Red-Mill-Gluten-Cornbread/dp/B00I8G3XH0/ref=sr_1_2_a_it?ie=UTF8&qid=1478376048&sr=8-2&keywords=bob%27s+red+mill+gluten+free+cornbread+mix) that is better than any other I've ever seen.  Please note that even tho the one I've linked to on Amazon is currently under review, you want this one, not the one in the yellow packaging.
 
 In this recipe we're first going to back the cornbread and then we're going to convert it to stuffing suitable for being put into a turkey or chicken or cooked separately as a side dish.
 
