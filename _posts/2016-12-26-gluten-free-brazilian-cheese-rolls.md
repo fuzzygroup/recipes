@@ -2,7 +2,7 @@
 layout: post
 title: Gluten Free Brazilian Cheese Rolls
 category: side_dish
-tags: ["bread", "side_dish"]
+tags: ["bread", "side_dish", "thanksgiving", "christmas"]
 ---
 # Ingredients
 

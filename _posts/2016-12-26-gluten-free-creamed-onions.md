@@ -2,7 +2,7 @@
 layout: post
 title: Gluten Free Creamed Onions
 category: side_dish
-tags: ["side_dish", "vegetable"]
+tags: ["side_dish", "vegetable", "thanksgiving", "christmas"]
 ---
 Note: We generally make this at the holidays so it is sized for a giant meal.  You really, really may want to scale it down.
 

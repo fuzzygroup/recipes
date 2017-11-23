@@ -2,7 +2,7 @@
 layout: post
 title: Marinated Grilled Shrimp
 category: appetizer
-tags: ["shrimp", "gluten_free"]
+tags: ["shrimp", "gluten_free", "thanksgiving", "christmas"]
 ---
 
 # Ingredients

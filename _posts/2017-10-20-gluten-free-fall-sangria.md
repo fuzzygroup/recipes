@@ -2,7 +2,7 @@
 layout: post
 title: Gluten Free Fall Sangria
 category: cocktail
-tags: ["gluten_free"]
+tags: ["gluten_free", "thanksgiving", "christmas"]
 ---
 # Ingredients
 

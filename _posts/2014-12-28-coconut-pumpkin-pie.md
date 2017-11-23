@@ -2,7 +2,7 @@
 layout: post
 title: Coconut Pumpkin Pie
 category: desert
-tags: ["gluten_free", "holiday", "pie", "desert"]
+tags: ["gluten_free", "holiday", "pie", "desert", "thanksgiving", "christmas"]
 
 ---
 

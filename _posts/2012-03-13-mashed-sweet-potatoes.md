@@ -2,7 +2,7 @@
 layout: post
 title: Mashed Sweet Potatoes
 category: side_dish
-tags: ["sweet_potato", "side_dish", "gluten_free"]
+tags: ["sweet_potato", "side_dish", "gluten_free", "thanksgiving", "christmas"]
 ---
 
 # Ingredients

@@ -2,7 +2,7 @@
 layout: post
 title: Lava Dip from Reddit
 category: dip
-tags: ["gluten_free", "dip", "mexican"]
+tags: ["gluten_free", "dip", "mexican", "thanksgiving", "christmas"]
 ---
 
 # Ingredients
