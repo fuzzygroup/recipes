@@ -4,7 +4,7 @@ title: Gluten Free Frito Pie
 category: main_course
 tags: ["main_course"]
 ---
-Chili is one of those wonderful meals that tends to get a bit tiring given that people tend to make big pots of chili.  The first bowl is great; the second bowl is great but by the 5th or 6th bowl, well, you get it.  My solution is that the end of any chili dish is made into Frito Pie.  This is an oven baked casserole with only three ingredients
+Chili is one of those wonderful meals that tends to get a bit tiring given that people tend to make big pots of chili.  The first bowl is great; the second bowl is semi great, the third bowl is good but by the 5th or 6th bowl, well, you get it.  My solution is that the end of any chili dish is made into Frito Pie.  This is an oven baked casserole with only three ingredients - fritos, chili and cheese.
 
 # Ingredients
 
