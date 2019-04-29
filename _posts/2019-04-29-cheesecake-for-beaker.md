@@ -63,19 +63,6 @@ Note: In Europe you can buy this off the shelf.  I haven't ever seen it in the s
 9.  Remove from oven and place on a wire rack for 1 hour.  Place in fridge and cool for 3 to 4 hours before serving.  
 10. Remove side from spring form pan and cut into wedges sliding off them off the parchment.  Make the slices small as this is very, very rich.
 
-**Note 1**: This recipe makes large cookies and you want large because that way they don't dry out.
-**Note 2**: Follow the directions to rotate the racks when you bake or they will burn. Trust me; one cookie gave its life in a valiant effort to disprove the need to rotate the racks.
-
-1.  Set oven racks to middle and low positions and preheat oven to 350 degrees.
-2.  In bowl of stand mixed, beat butter until creamy (its ok the butter consented to this).  Add the two sugars and beat until fluffy, 3 minutes.  Add the eggs one at a time and beat until incorporated.
-3.  Combine flour, salt, baking powder and nutmeg in a separate bowl and mix (this spreads the baking powder out evenly amongst the flour).  Add the flour mixture to the stand mixer and beat it until incorporated.
-4.  Add in the oats and the raisins and beat until incorporated.
-5.  Ready two large cookie sheets with parchment paper.
-6.  Form the dough into 24 1 1/2" balls.  Place each ball of dough on the cookie sheet and flatten them so they are about 1/3" to 1/4" thick.  
-7.  Bake until cookie edges turn golden brown, about 22 to 25 minutes.  Halfway thru the baking process turn the cookie sheets from front to back and switch them from top to bottom.
-8.  Let cool on a rack for 30 minutes before eating.
-
-
 
 # Ingredients - Strawberry Sauce
 
