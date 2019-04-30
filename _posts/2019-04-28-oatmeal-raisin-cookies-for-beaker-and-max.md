@@ -8,6 +8,8 @@ For a recent birthday party for a friend, Beaker, I discovered that his favorite
 
 And tomorrow I'm supposed to teach him how to make them. So Happy Birthday Beaker — you gave my son a new cookie to love. 
 
+Note: When I remade these with my son, they were entirely different (thin and crispy versus more moist for the party cookies).  I traced this back to when the eggs were added.  The party cookies had the eggs added either after the flour or after the oats.  The remade batch had the eggs added in the correct order.  Go figure; I'm not enough of a chemist to understand this.
+
 # Ingredients
 
 * 1 cup unsalted butter softened but still firm; this is 1/2 pound or 2 sticks
