@@ -2,7 +2,7 @@
 layout: post
 title: Gluten Free Magic Green Sauce
 category: puerto_rico
-tags:["puerto_rico", "plantain", "appetizer", "street_food"]
+tags: ["puerto_rico", "plantain", "appetizer", "street_food"]
 ---
 This is a great dipping sauce.  I served it on Tostones and Bacalitos and Grilled Shrimp.
 
