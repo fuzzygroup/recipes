@@ -27,6 +27,10 @@ This is my second pass at making Tembleque.  My first attempt ended up with an i
 6. Top with cinnamon and toasted coconut.
 7. Let cool on counter for 2 hours and then move to fridge until ready to serve.
 
+# Conclusion
+
+After making this and letting it sit in the fridge overnight, it proved to be delicious.  I suspect it would have been just as good after only a few hours.  **Recommended**.
+
 # References
 
 Here are a bunch because I wasn't happy with my first take:
