@@ -6,6 +6,7 @@ tags: ["baking", "muffin", "breakfast"]
 ---
 
 # Ingredients
+
 * 2/3 cup gluten free flour
 * 1/2 cup sugar
 * 3 tbs sugar
