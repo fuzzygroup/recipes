@@ -33,3 +33,5 @@ I am a huge fan of the humble pig.  It always seems to me that among all the mea
 6. Remove any fat from the surface and discard.  Use a wooden spoon to break up the meat until it is almost shredded.  Season with salt and pepper to taste.
 7. Heat a large saute pan over medium heat and add 1 tbsp oil.  Cook the scallions until tender, 4 to 5 minutes. Add a pinch of salt and a sprinkle of lemon juice.
 8. Place the meat on a large platter and spoon the sauce left in the pan over it (there may not be very much).  Sprinkle with the red pepper flakes and drizzle with the olio nuovo (the really good olive oil).  Top with the cheese.  Serve with the scallions alongside.
+
+**Note**: I know it is non traditional but we ate this on top of tortillas just as if it was carnitas and it was phenomenal.
