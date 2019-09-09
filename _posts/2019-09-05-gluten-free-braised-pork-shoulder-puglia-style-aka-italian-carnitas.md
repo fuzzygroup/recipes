@@ -2,7 +2,7 @@
 layout: post
 title: Gluten Free Braised Pork Shoulder Puglia Style aka Italian Carnitas
 category: main_course
-tags: ["main_course", "italian", "pork"]
+tags: ["main_course", "italian", "pork", "favorite"]
 ---
 I am a huge fan of the humble pig.  It always seems to me that among all the meats, pork ends up being the tastiest.  And this recipe is no shrinking violet.  My wife ranks it right up with [Crack Pork](https://fuzzyblog.io/recipes/pork/2019/06/07/crack-pork.html) and even better than my carnitas.  The way to think of this is that it is "Italian Carnitas in a Red Wine Reduction" -- and it is **marvelous**.  I originally found this recipe in the book [Secret Suppers by Jenn Garbee](https://www.amazon.com/Secret-Suppers-Underground-Restaurants-Warehouses/dp/1570615462).
 

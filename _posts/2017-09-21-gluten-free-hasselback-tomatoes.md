@@ -2,7 +2,7 @@
 layout: post
 title: Gluten Free Hasselback Tomatoes
 category: italian
-tags: ["gluten_free", "italian", "side_dish"]
+tags: ["gluten_free", "italian", "side_dish", "favorite"]
 description: Gluten Free Hasselback Tomatoes are a wonderful blend of tomatoes and a basil, parmesan pesto.
 ---
 [Bacon stuffed Hasselback Potatoes](http://fuzzyblog.io/recipes/side_dish/2013/04/21/bacon-hasselback-potatoes.html) are one of my families favorite potato recipes so when I saw a [Cooks Country Hasselback Tomatoes recipe](https://www.cookscountry.com/recipes/9679-hasselback-tomatoes), I was happy to try it.  And it is delicious!

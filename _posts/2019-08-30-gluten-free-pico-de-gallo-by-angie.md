@@ -2,7 +2,7 @@
 layout: post
 title: Gluten Free Pico De Gallo by Angie
 category: mexican
-tags: ["mexican", "tomatoes"]
+tags: ["mexican", "tomatoes", "favorite"]
 ---
 I got this recipe from Angie Gonzalez, a woman at the first church we ever attended in Indianapolis about a dozen years ago -- and it was wonderful then and is wonderful today.  Thanks Angie!
 

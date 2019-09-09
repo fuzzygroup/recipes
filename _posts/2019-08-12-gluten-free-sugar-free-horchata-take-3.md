@@ -2,7 +2,7 @@
 layout: post
 title: Gluten Free, Sugar Free Horchata - Take 3
 category: mexican
-tags: ["drink", "mexican"]
+tags: ["drink", "mexican", "favorite"]
 ---
 
 This is a follow up to my [original Horchata recipe](https://fuzzyblog.io/recipes/mexican/2019/07/29/gluten-free-homemade-horchata.html).  

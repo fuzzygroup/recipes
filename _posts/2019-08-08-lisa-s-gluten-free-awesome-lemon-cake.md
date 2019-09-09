@@ -2,7 +2,7 @@
 layout: post
 title: Lisa's Gluten Free Awesome Lemon Cake
 category: dessert
-tags: ["gluten_free", "dessert"]
+tags: ["gluten_free", "dessert", "favorite"]
 ---
 A good friend of mine makes this and I adore this particular dessert.  Her version, however, was not gluten free and thus excluded celiac folks.  I made a stab at addressing that as well as I added a blueberry syrup to channel that wonderful Lemon - Blueberry flavor mix that I am personally very fond of.
 # Ingredients

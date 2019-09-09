@@ -2,7 +2,7 @@
 layout: post
 title: Gluten Free Milkstreet Scrambled Eggs
 category: eggs
-tags: ["eggs", "breakfast"]
+tags: ["eggs", "breakfast", "favorite"]
 ---
 Scrambled eggs are one of those foods that can be both prosaic as well as high art.  When I take the time to make scrambled eggs and want to elevate them, this is one of my two approaches (the other takes a crap ton longer; alas; wistful sigh).  This one is fast enough that once you internalize it, you can make it most mornings.  The best description I can give of these eggs is that they are both fluffy and eggy.  I know eggy as a description is, well, self referential, but I always feel like I'm really tasting the egg in this recipe.
 

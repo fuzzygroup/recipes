@@ -2,7 +2,7 @@
 layout: post
 title: Gluten Free Lava Dip from Reddit Take 2
 category: mexican
-tags: ["mexican", "appetizer", "dip"]
+tags: ["mexican", "appetizer", "dip", "favorite"]
 ---
 I originally found this recipe floating around Reddit a number of years ago and I've been making it consistently for parties ever since.  This is a lightened up, freshened version of it and the reviews from the consumers remain stellar.
 

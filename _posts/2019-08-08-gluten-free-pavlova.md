@@ -2,7 +2,7 @@
 layout: post
 title: Gluten Free Pavlova
 category: dessert
-tags: ["dessert", "fruit"]
+tags: ["dessert", "fruit", "favorite"]
 ---
 One of the most impressive easy desserts that you can ever make.  Entirely worth the effort.  You can top this either with fresh fruit or with ice cream and fudge / caramel.  
 

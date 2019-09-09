@@ -2,7 +2,7 @@
 layout: post
 title: Gluten Free Mexican Street Corn Salad Party Scale
 category: mexican
-tags: ["gluten_free", "mexican", "side_dish", "salad"]
+tags: ["gluten_free", "mexican", "side_dish", "salad", "favorite"]
 ---
 I make this recipe a lot for parties.  The key ingredient is corn on the cob and my local Kroger sells husked corn on the cob in packs of 7.  This recipe is thus scaled for 3 packs of corn or 21 ears.  Here is the the [original, also gluten free, scaled down version](https://fuzzyblog.io/recipes/mexican/2016/07/11/mexican-street-corn-salad.html).
 # Ingredients

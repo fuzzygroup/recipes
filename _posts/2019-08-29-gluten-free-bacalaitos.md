@@ -2,7 +2,7 @@
 layout: post
 title: Gluten Free Bacalaitos
 category: puerto_rico
-tags: ["puerto_rico", "fish", "appetizer", "street_food"]
+tags: ["puerto_rico", "fish", "appetizer", "street_food", "favorite"]
 ---
 Street food, from any culture, always feels to be to be the best damn food around.  Constraints on any process often yield the best results and the inherent constraints on street food (cheap, fast to prepare, etc) really seem to work.  Other than once upon a time catching a giant fish in Puerto Rico (710 pound blue marlin), I know very little about Puerto Rico but I found a reference to Bacalaitos in a [science fiction novel](https://www.amazon.com/Sparrow-Novel-Mary-Doria-Russell/dp/0679451501/) and they seemed wonderful so ...
 

@@ -2,7 +2,7 @@
 layout: post
 title: Gluten Free Pepperoni Pizza Mac and Cheese
 category: main_course
-tags: ["pasta", "side_dish", ]
+tags: ["pasta", "side_dish", "favorite"]
 ---
 This recipe is incredibly versatile.  I've served it as a main course and as a side dish with a hearty protein like steaks.  Never stint on the quantity you make of this because it goes fast -- the first time I made it for a dinner party, it never made it to the table -- it was consumed at the kitchen island by all the adults.  The kids never got any.
 

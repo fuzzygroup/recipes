@@ -2,7 +2,7 @@
 layout: post
 title: Gluten Free Crispy Salted Tostones
 category: puerto_rico
-tags: ["puerto_rico", "plantain", "appetizer", "street_food"]
+tags: ["puerto_rico", "plantain", "appetizer", "street_food", "favorite"]
 ---
 Tostones are fried "green" plaintains.  I put the green in quotes because I ended up with yellowish plantains and they were just fine.
 

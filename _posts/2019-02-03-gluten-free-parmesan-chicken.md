@@ -2,7 +2,7 @@
 layout: post
 title: Gluten Free Parmesan Chicken
 category: main_course
-tags: ["chicken", "main_course"]
+tags: ["chicken", "main_course", "favorite"]
 ---
 This recipe was related orally to me by a former neighbor.  It is absolutely delicious, a snap to make and no child can resist it (my son Max recently ate 5 out of 6 chicken breasts done this way).  It is also a 4 ingredient meal.
 

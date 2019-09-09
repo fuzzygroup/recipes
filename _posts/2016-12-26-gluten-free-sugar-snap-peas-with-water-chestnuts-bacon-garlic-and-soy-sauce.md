@@ -2,7 +2,7 @@
 layout: post
 title: Stir Fried Gluten Free Sugar Snap Peas with Water Chestnuts, Bacon, Garlic and Soy Sauce
 category: side_dish
-tags: ["asian", "vegetables"]
+tags: ["asian", "vegetables", "favorite"]
 ---
 # Ingredients
 * 3 cloves garlic

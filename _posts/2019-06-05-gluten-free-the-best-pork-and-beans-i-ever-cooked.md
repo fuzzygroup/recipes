@@ -2,7 +2,7 @@
 layout: post
 title: Gluten Free - The Best Pork and Beans I Ever Cooked
 category: main_course
-tags: ["main_course"]
+tags: ["main_course", "favorite"]
 ---
 This isn't really a recipe, it is a combination of two things:
 

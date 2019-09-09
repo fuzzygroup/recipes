@@ -2,7 +2,7 @@
 layout: post
 title: Crack Pork
 category: pork
-tags: ["gluten_free", "pork", "main_course"]
+tags: ["gluten_free", "pork", "main_course", "favorite"]
 ---
 This started as [Momofuku Ssam Pork](http://cooking.nytimes.com/recipes/12197-momofukus-bo-ssam) but to my family and I, this has been renamed "Crack Pork" because it is just that damn addictive.  I've made a few changes including moving the cooking time from 6 hours to actually 9.  I'd also recommend cooking it with the fat cap on top so the rendered fat bastes it as it drips down.
 
