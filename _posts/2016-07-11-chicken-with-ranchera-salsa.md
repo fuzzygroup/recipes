@@ -6,6 +6,7 @@ tags: ["gluten_free", "chicken", "mexican", "favorite"]
 ---
 # Ingredients
 
+
 * 1 1/2 pounds heirloom tomatoes, cut into large cubes
 
 * 1 small white onion, finely diced (1 cup)
