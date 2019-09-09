@@ -21,7 +21,7 @@ tags: ["gluten_free", "chicken", "mexican", "favorite"]
 
 * Kosher salt
 
-* 4 boneless, skinless chicken breasts (about 1 1/2 pounds)
+* 4 boneless, skinless chicken breasts (about 1 1/2 pounds); I **strongly** recommend cutting these in half horizontally to speed cooking
 
 * 1 cup shredded cheddar / monterey jack (about 4 ounces)
 

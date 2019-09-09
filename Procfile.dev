@@ -1,0 +1,4 @@
+#web: bundle exec rails server
+#webpack: bundle exec bin/webpack-dev-server
+#
+web: jekyll serve --port 4010
