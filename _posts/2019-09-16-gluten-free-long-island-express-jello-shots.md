@@ -4,6 +4,9 @@ title: Long Island Iced Tea Jello Shots
 category: cocktail
 tags: ["cocktail", "jello"]
 ---
+{:.center}
+![longbeach.jpg](https://fuzzyblog.io/blog/assets/longbeach.jpg)
+
 We made these for my wife's birthday recently and they were apparently delicious although in the party hub bub, they got forgotten in the garage fridge.  Not to worry tho - they will get served at the next [Starbase Indy](https://www.starbaseindy.org) work night.
 
 # Ingredients
