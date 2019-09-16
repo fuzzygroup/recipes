@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gluten Free Long Island Express Jello Shots
+title: Long Island Iced Tea Jello Shots
 category: cocktail
 tags: ["cocktail", "jello"]
 ---
