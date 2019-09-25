@@ -5,12 +5,12 @@ category: italian
 tags: ["italian", "pasta", "main_course"]
 ---
 {:.center}
-![IMG_9110.jpeg](https://fuzzyblog.io/blog/assets/IMG_9110.jpeg
+![IMG_9110.jpeg](https://fuzzyblog.io/blog/assets/IMG_9110.jpeg)
 
 **Note**: It should look roughly like this.
 
 {:.center}
-![IMG_9114.jpeg](https://fuzzyblog.io/blog/assets/IMG_9114.jpeg
+![IMG_9114.jpeg](https://fuzzyblog.io/blog/assets/IMG_9114.jpeg)
 
 **Note**: When you bake it this long you end up with a much thicker cheese layer, weird but delicious.
 
