@@ -9,10 +9,12 @@ tags: ["italian", "pasta", "main_course"]
 
 **Note**: It should look roughly like this.
 
+
 {:.center}
 ![IMG_9114.jpeg](https://fuzzyblog.io/blog/assets/IMG_9114.jpeg)
 
 **Note**: When you bake it this long you end up with a much thicker cheese layer, weird but delicious.
+
 
 
 Sammy Waltz is a good friend of my wife and she recently made for us a Baked Mostaccioli pasta dish which was to die for.  I tried to recreate it but I lacked some of the same ingredients and then made a mistake -- and we really liked the results.  So I guess you never know ...
