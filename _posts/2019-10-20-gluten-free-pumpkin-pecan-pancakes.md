@@ -19,3 +19,4 @@ After you make pumpkin, well, anything, you always have that leftover pumpkin an
 
 1. In a standing mixer combine all ingredients except the nuts.  Add the nuts at the end with a spoon since you don't want the standing mixer to break them.
 2. Cook them on a griddle as you do normal pancakes. Since these are gluten free you need to make them smaller than normal just because gluten free means you lack that wonderful, strong elastic protein that is gluten but if you are reading this then you likely already know that. I recommend 1/4 cup of batter per pancake.
+  
