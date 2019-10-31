@@ -4,6 +4,19 @@ title: Lauren's Gluten Free Cranberry Apple Compote
 category: sauce
 tags: ["sauce", "cranberry", "apple", "breakfast"]
 ---
+{:.center}
+![IMG_9797_cranberry_compote.jpeg](https://fuzzyblog.io/blog/assets/IMG_9797_cranberry_compote.jpeg)
+
+{:.center}
+**Cooked Cranberry Compote Ready for Serving**
+
+{:.center}
+![IMG_9799_cranberry_compote_over_yogurt.jpeg](https://fuzzyblog.io/blog/assets/IMG_9799_cranberry_compote_over_yogurt.jpeg)
+
+{:.center}
+**Cranberry Compote over Vanilla Yogurt**
+
+
 I recently was part of a team offsite and my coworker Lauren made this.  It was a delicious topping to either fruit and yogurt or the Pumpkin Pecan pancakes that I made.  Thanks Lauren!
 
 # Ingredients
