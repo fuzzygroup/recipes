@@ -2,7 +2,7 @@
 layout: post
 title: Cranberry Orange Virgin Mimosas
 category: christmas2019
-tags: category: ["christmas2019", "cocktail", "cranberry"]
+tags: ["christmas2019", "cocktail", "cranberry"]
 ---
 If you are a non drinker (or a kid) and you are envious of the cool cocktails other people get, this one is actually quite nice.
 

@@ -2,7 +2,7 @@
 layout: post
 title: Cranberry Orange Holiday Mimosas
 category: christmas2019
-tags: category: ["christmas2019", "cocktail", "cranberry"]
+tags: ["christmas2019", "cocktail", "cranberry"]
 ---
 ## Ingredients
 
