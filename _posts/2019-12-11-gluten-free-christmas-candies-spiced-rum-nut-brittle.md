@@ -5,6 +5,8 @@ category: christmas2019
 tags: ["christmas", "christmas_candy", "candy", "christmas2019", "coconut"]
 ---
 
+**Note**: As written, this recipe DOES NOT WORK.  It is tasty but chewy and not room temperature stable, not brittle like a true brittle.  My suspicion is that I added too much rum.  The original recipe had rum extract not rum itself and I suspect that was the issue.  Still it was an interesting experiment (it is tasty though).
+
 ## Ingredients
 
 * 1 cup sugar
