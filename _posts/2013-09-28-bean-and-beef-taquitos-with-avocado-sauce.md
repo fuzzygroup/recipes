@@ -6,32 +6,35 @@ tags: ["desert", "ice_cream", "gluten_free"]
 ---
 # Ingredients
 
-TAQUITOS
-1	cup plus 4 teaspoons vegetable oil
-8	ounces 90 percent lean ground beef
-1	cup canned pinto beans, rinsed
-1	onion, halved and sliced thin
-2	jalapeño chiles, stemmed, seeded, and minced
-3	garlic cloves, minced
-1	teaspoon ground cumin
-1	teaspoon chili powder
-1	(8-ounce) can tomato sauce
-½	cup water
-3	tablespoons minced fresh cilantro
-Salt and pepper
-12	(6-inch) corn tortillas
-1	large egg, lightly beaten
-AVOCADO SAUCE
-2	avocados, halved, pitted, and chopped coarse
-½	cup sour cream
-¼	cup water
-3	tablespoons lime juice (2 limes)
-2	tablespoons minced fresh cilantro
-Salt and pepper
+##TAQUITOS
+
+* 1	cup plus 4 teaspoons vegetable oil
+* 8	ounces 90 percent lean ground beef
+* 1	cup canned pinto beans, rinsed
+* 1	onion, halved and sliced thin
+* 2	jalapeño chiles, stemmed, seeded, and minced
+* 3	garlic cloves, minced
+* 1	teaspoon ground cumin
+* 1	teaspoon chili powder
+* 1	(8-ounce) can tomato sauce
+* ½	cup water
+* 3	tablespoons minced fresh cilantro
+* Salt and pepper
+* 12	(6-inch) corn tortillas
+* 1	large egg, lightly beaten
+
+## AVOCADO SAUCE
+
+* 2	avocados, halved, pitted, and chopped coarse
+* ½	cup sour cream
+* ¼	cup water
+* 3	tablespoons lime juice (2 limes)
+* 2	tablespoons minced fresh cilantro
+* Salt and pepper
 
 # Steps
 
-INSTRUCTIONS
+
 1. FOR THE TAQUITOS: Heat 1 teaspoon oil in 12-inch nonstick skillet over medium-high heat until just smoking. Add beef and cook, breaking up pieces with spoon, until no longer pink, about 5 minutes. Drain beef in colander; set aside. Mash beans to paste with potato masher or fork; set aside.
 
 2. Heat 1 tablespoon oil in now-empty skillet over medium heat until shimmering. Add onion and cook until lightly browned, about 5 minutes. Stir in jalapeños, garlic, cumin, and chili powder and cook until fragrant, about 30 seconds. Stir in mashed beans, tomato sauce, water, cilantro, ½ teaspoon salt, and ½ teaspoon pepper. Stir in drained beef and cook, stirring occasionally, until mixture has thickened and begins to sizzle, about 10 minutes. Season with salt and pepper to taste. Transfer to bowl; set aside to cool, about 20 minutes.
