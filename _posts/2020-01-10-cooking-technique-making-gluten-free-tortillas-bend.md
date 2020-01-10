@@ -7,7 +7,7 @@ tags: ["technique", "gluten_free"]
 Unlike most of what I write here, this isn't a recipe, instead it is a technique.  A friend forwarded me a post from his Facebook feed and said "any thoughts?":
 
 {:.center}
-![82131537_1321060401414814_2119848286524276736_n.png](/blog/assets/82131537_1321060401414814_2119848286524276736_n.png)
+![82131537_1321060401414814_2119848286524276736_n.png](https://fuzzyblog.io/blog/assets/82131537_1321060401414814_2119848286524276736_n.png)
 
 What he was really asking me here was "Are there better Gluten Free tortillas than corn tortillas?" but the problem people generally have with corn is that they don't bend well.  So here are some thoughts:
 
