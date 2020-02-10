@@ -18,3 +18,9 @@ Mashed potatoes are, imho, one of the great joys of life.  The problem comes whe
 1. Put the mashed potatoes in a glass bowl and heat in microwave for 2 to 3 minutes.
 2. Add potatoes to a standing mixer with salt, butter and flour and combine thoroughly.
 3. Form into patties and pan fry on a griddle or in a frying pan.
+
+## The Visual
+
+{:.center}
+![IMG_1860.jpeg](https://fuzzyblog.io/blog/assets/IMG_1860.jpeg)
+
