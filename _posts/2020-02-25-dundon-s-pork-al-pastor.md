@@ -37,3 +37,7 @@ This pork is spectacular served as tacos but it is equally good when served over
 * Mashed Potatoes
 
 On top of any of these, I would recommend serving with optional sides of: Cheese, Diced White Onion, Green Onion, Salsa, Sour Cream or Squeezable Greek Yogurt and Cilantro.
+
+## Dessert
+
+I strongly recommend [Chocolate Chili Bites](https://fuzzyblog.io/recipes/dessert/2020/03/01/gluten-free-chocolate-chili-bites.html).
