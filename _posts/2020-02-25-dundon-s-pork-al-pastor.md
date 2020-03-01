@@ -25,5 +25,15 @@ I got this recipe from a friend, Lexi, who got it from a friend, Dundon.  This i
 2. Dice each of the chiles into approximately 1” pieces. Place the diced chiles in a small sauce pan with two cups of water (or enough to just cover), and simmer for 5-10 minutes or until the chiles have softened. Drain the water.
 3. If using whole pineapple, carve out the pineapple flesh and dice into 1” chunks. Reserve all the liquid possible, you should have at least a half cup. If you don’t, add water to the juice until you have ½ cup worth.
 4. Add the chiles, chipotle peppers, half of the diced onion, the pineapple juice, vinegar, half the garlic, and adobo seasoning to a food processor. Puree for about two minutes or until the paste is smooth.
-5. To both slow cookers, add the pork chunks. Cover with the chile paste and spread liberally across all of the chunks. Add the pineapple chunks and remaining garlic on top of the pork, then pour the chicken stock along the sides of the pork.
+5. To both slow cookers, add the remaining white onion on the bottom of the slow cooker, half to each and then add the pork chunks. Cover with the chile paste and spread liberally across all of the chunks. Add the pineapple chunks and remaining garlic on top of the pork, then pour the chicken stock along the sides of the pork.
 6. Cover and cook on low for 8 hours. When the pork is cooked through, remove and shred using forks, then add back to the slow cooker and mix with the sauce.  
+
+## Pairings
+
+This pork is spectacular served as tacos but it is equally good when served over:
+
+* White Rice
+* Jambalaya
+* Mashed Potatoes
+
+On top of any of these, I would recommend serving with optional sides of: Cheese, Diced White Onion, Green Onion, Salsa, Sour Cream or Squeezable Greek Yogurt and Cilantro.
