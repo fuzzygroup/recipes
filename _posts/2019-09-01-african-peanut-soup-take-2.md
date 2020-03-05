@@ -2,7 +2,7 @@
 layout: post
 title: Gluten Free African Peanut Soup Take 2 - Easy Vegan
 category: soup
-tags: ["soup", "gluten_free", "vegan"]
+tags: ["soup", "gluten_free", "cookbook_club", "cookbook_club_soup_and_bread",  "vegan"]
 ---
 *Self Conscious Disclaimer*: Yes there's a recipe below but a bit of context might make this more enjoyable.  Or just page down; you know what to do.
 

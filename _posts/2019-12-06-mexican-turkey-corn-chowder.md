@@ -2,9 +2,13 @@
 layout: post
 title: Gluten Free Mexican Turkey Corn Chowder
 category: soup
-tags: ["soup", "thanksgiving"]
+tags: ["soup", "gluten_free", "cookbook_club", "cookbook_club_soup_and_bread",  "thanksgiving"]
 ---
-Earlier today, my friend Craig sent me [this recipe](https://www.tasteofhome.com/recipes/mexican-chicken-corn-chowder/) with these comments "Gluten free (or nearly, depends on the hot sauce). Made it tonight and it was well received. I added a sweet red pepper and cayenne to the recipe, doubled the amount of cumin, and double the hot sauce. Could use a tad more flavor still. Karen suggested roasting the vegetables before adding them, and I agree. For your recipe collection."  I thought it looked good but I lacked several of the ingredients including the chicken. But soups are the very definition of food flexibility so I instead made a turkey version of it designed to use up Thanksgiving turkey.  Virtually the whole pot went the first day so I can declare this one a success.
+Earlier today, my friend Craig sent me [this recipe](https://www.tasteofhome.com/recipes/mexican-chicken-corn-chowder/) with these comments:
+
+> "Gluten free (or nearly, depends on the hot sauce). Made it tonight and it was well received. I added a sweet red pepper and cayenne to the recipe, doubled the amount of cumin, and double the hot sauce. Could use a tad more flavor still. Karen suggested roasting the vegetables before adding them, and I agree. For your recipe collection."  
+
+I thought it looked good but I lacked several of the ingredients including the chicken. But soups are the very definition of food flexibility so I instead made a turkey version of it designed to use up Thanksgiving turkey.  Virtually the whole pot went the first day so I can declare this one a success.
 
 ## Ingredients
 

@@ -9,7 +9,7 @@ No one ever talks about it but I find that picking the right recipe to cook is a
 ## Ingredients
 
 * 200 grams (7 ounces, 1 cup minus 2 tablespoons) butter
-* 200 grams (7 ounces) good-quality dark chocolate, chopped
+* 200 grams (7 ounces) good-quality dark chocolate, chopped -or- (and I think this is better) 7 ounces Ghardelli 60% cacao Bittersweet Chocolate Morsels (the ones in the brown bag)
 * 160 grams (3/4 cup) sugar
 * 4 eggs
 * 1 rounded tablespoon gluten-free flour; you can omit the flour also but I didn't try that
