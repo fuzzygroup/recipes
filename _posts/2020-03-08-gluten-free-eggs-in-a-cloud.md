@@ -23,3 +23,7 @@ tags: ["eggs", "gluten_free"]
 6. Bake the whites for 3 minutes.
 7. Remove the whites from the oven, add the yolks and sprinkle the 1 tbsp parmesan over the tops.
 8. Bake for 3 additional minutes.
+
+## See Also
+
+* [SimplyRecipes](https://www.simplyrecipes.com/recipes/egg_nests/)
