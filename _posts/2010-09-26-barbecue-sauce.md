@@ -6,17 +6,17 @@ tags: ["sauce", "gluten_free"]
 ---
 # Ingredients
 
-6	tbsp olive oil
-2	onions chopped
-4	tbsp finely diced shallots
-4	garlic cloves finely chopped
-2	cups tomato sauce (pref a tomato basil pasta sauce)
-⅔	cups molasses
-½	cup dark brown sugar
-½	cup orange juice
-2	tbsp worcestershire sauce
-1	tsp salt
-½	tsp black pepper
+* 6	tbsp olive oil
+* 2	onions chopped
+* 4	tbsp finely diced shallots
+* 4	garlic cloves finely chopped
+* 2	cups tomato sauce (pref a tomato basil pasta sauce)
+* 2/3	cups molasses
+* 1/2	cup dark brown sugar
+* 1/2	cup orange juice
+* 2	tbsp worcestershire sauce
+* 1	tsp salt
+* 1/2	tsp black pepper
 
 # Steps
 

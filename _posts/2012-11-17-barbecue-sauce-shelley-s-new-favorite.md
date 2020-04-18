@@ -6,15 +6,15 @@ tags: ["sauce", "gluten_free"]
 ---
 # Ingredients
 
-1	cup ketchup
-2	Tbs Worcestershire sauce
-2	Tbs Dijon mustard
-3	Tbs molasses
-2	Tbs maple syrup
-3	Tbs cider vinegar
-1	tsp chili powder
-¼	tsp cayenne pepper
-1	tbsp oil.
+* 1	cup ketchup
+* 2	Tbs Worcestershire sauce
+* 2	Tbs Dijon mustard
+* 3	Tbs molasses
+* 2	Tbs maple syrup
+* 3	Tbs cider vinegar
+* 1	tsp chili powder
+* 1/4	tsp cayenne pepper
+* 1	tbsp oil.
 
 # Steps
 
