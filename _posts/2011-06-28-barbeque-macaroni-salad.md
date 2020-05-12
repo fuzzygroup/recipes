@@ -6,12 +6,12 @@ tags: ["side_dish", "salad", "pasta"]
 ---
 # Ingredients
 
-1	cup elbow macaroni
-salt and pepper
-⅓	cup mayonnaise
-2	tbsp barbecue sauce
-2	scallions sliced thin
-1	tsp chili powder
+* 1	cup elbow macaroni
+* salt and pepper
+* ⅓	cup mayonnaise
+* 2	tbsp barbecue sauce
+* 2	scallions sliced thin
+* 1	tsp chili powder
 
 # Steps
 

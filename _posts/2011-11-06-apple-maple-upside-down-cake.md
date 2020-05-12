@@ -6,18 +6,18 @@ tags: ["cake", "desert", "apple", "maple"]
 ---
 # Ingredients
 
-1	cup pure maple syrup
-3	granny smith apples, peeled, cored and cut into eighths
-2	cups all purpose flour
-1	tsp baking powder
-½	tsp baking soda
-1	tsp salt
-3	large eggs
-¾	cup buttermilk or evaporated milk
-1	tbsp vanilla
-1½	sticks butter, unsalted, softened
-1⅓	cups sugar
-Creme fraiche for serving
+* 1	cup pure maple syrup
+* 3	granny smith apples, peeled, cored and cut into eighths
+* 2	cups all purpose flour
+* 1	tsp baking powder
+* ½	tsp baking soda
+* 1	tsp salt
+* 3	large eggs
+* ¾	cup buttermilk or evaporated milk
+* 1	tbsp vanilla
+* 1½	sticks butter, unsalted, softened
+* 1⅓	cups sugar
+* Creme fraiche for serving
 
 # Steps
 

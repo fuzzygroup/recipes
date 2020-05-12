@@ -7,14 +7,14 @@ tags: ["main_course", "mexican", "burrito", "gluten_free"]
 # Ingredients
 
 	Note: Gluten Free if Corn Tortillas Used
-1	cup white rice
-1¾	cups chicken broth
-1	15 oz can refried beans
-4	flour tortillas, burrito size
-¼	cup sour cream
-1	cup shredded cheddar cheese
-½	head shredded romain (2 cups)
-½	cup salsa
+* 1	cup white rice
+* 1¾	cups chicken broth
+* 1	15 oz can refried beans
+* 4	flour tortillas, burrito size
+* ¼	cup sour cream
+* 1	cup shredded cheddar cheese
+* ½	head shredded romain (2 cups)
+* ½	cup salsa
 
 # Steps
 

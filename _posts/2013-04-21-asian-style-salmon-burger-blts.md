@@ -6,22 +6,22 @@ tags: ["salmon", "bacon", "gluten_free"]
 ---
 # Ingredients
 
-8	slices good-quality bacon
-1	cup regular or vegan mayo
-¼	cup finely chopped chives
-2	tablespoons tamari or teriyaki sauce
-2	tablespoons ketchup
-1	tablespoon sweet pickle relish
-2	teaspoons sriracha or ½ tsp. wasabi
-Sea salt and black pepper, or seafood seasoning blend
-4	6 ounces skinless salmon fillets, cut into chunks
-2	cloves garlic, grated or pasted
-2	scallions, chopped
-A few shiso leaves or a small handful cilantro leaves
-A handful gluten free breadcrumbs
-1	tablespoon vegetable oil
-4	large lettuce leaves for wrapping
-Lettuce, tomato and red onion, for topping
+* 8	slices good-quality bacon
+* 1	cup regular or vegan mayo
+* ¼	cup finely chopped chives
+* 2	tablespoons tamari or teriyaki sauce
+* 2	tablespoons ketchup
+* 1	tablespoon sweet pickle relish
+* 2	teaspoons sriracha or ½ tsp. wasabi
+* Sea salt and black pepper, or seafood seasoning blend
+* 4	6 ounces skinless salmon fillets, cut into chunks
+* 2	cloves garlic, grated or pasted
+* 2	scallions, chopped
+* A few shiso leaves or a small handful cilantro leaves
+* A handful gluten free breadcrumbs
+* 1	tablespoon vegetable oil
+* 4	large lettuce leaves for wrapping
+* Lettuce, tomato and red onion, for topping
 
 # Steps
 

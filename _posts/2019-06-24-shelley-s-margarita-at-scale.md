@@ -9,8 +9,8 @@ This is the party sized version where you are making it as a **premix** cocktail
 # Ingredients
 
 * 1 1/2 cups lime juice
- * 3 cups Tequila
- * 3 cups Triple Sec
+* 3 cups Tequila
+* 3 cups Triple Sec
  
 # Steps
 

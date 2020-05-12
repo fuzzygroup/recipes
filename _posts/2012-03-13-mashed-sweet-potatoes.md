@@ -7,12 +7,12 @@ tags: ["sweet_potato", "side_dish", "gluten_free", "thanksgiving", "christmas"]
 
 # Ingredients
 
-4	tbsp unsalted butter cut into 4 pieces
-3	tbsp heavy or whipping cream
-½	tsp salt
-½	tsp pepper
-1	tsp sugar
-2	pounds sweet potatoes peeled, quartered and cut into ¼" slices
+* 4	tbsp unsalted butter cut into 4 pieces
+* 3	tbsp heavy or whipping cream
+* ½	tsp salt
+* ½	tsp pepper
+* 1	tsp sugar
+* 2	pounds sweet potatoes peeled, quartered and cut into ¼" slices
 
 # Steps
 

@@ -6,14 +6,14 @@ tags: ["biscuit", "main_course", "gluten_free"]
 ---
 # Ingredients
 
-2½	cups blanched almond flour
-½	tsp baking soda
-¼	tsp sea salt
-⅛	tsp baking powder
-3	tbsp butter, melted (or melted coconut oil)
-1	tbsp pure honey (I prefer sage honey due to its mild flavor)
-3	tbsp cultured buttermilk (or almond milk)
-2	large eggs
+* 2½	cups blanched almond flour
+* ½	tsp baking soda
+* ¼	tsp sea salt
+* ⅛	tsp baking powder
+* 3	tbsp butter, melted (or melted coconut oil)
+* 1	tbsp pure honey (I prefer sage honey due to its mild flavor)
+* 3	tbsp cultured buttermilk (or almond milk)
+* 2	large eggs
 
 # Steps 
 

@@ -7,16 +7,16 @@ tags: ["cookie", "gluten_free", "dessert"]
 
 # Ingredients
 
-2	tsps running over vanilla
-¾	cups sugar
-⅔	cups dark brown sugar
-1	stick butter room temperature
-2	eggs
-1¼	cups smooth peanut butter, Jif if possible
-¼	tsp salt
-1	cup Bob's Red Mill Gluten Free flour
-½	tsp baking soda
-2	cups Ghardelli Milk Chocolate Chips
+* 2	tsps running over vanilla
+* ¾	cups sugar
+* ⅔	cups dark brown sugar
+* 1	stick butter room temperature
+* 2	eggs
+* 1¼	cups smooth peanut butter, Jif if possible
+* ¼	tsp salt
+* 1	cup Bob's Red Mill Gluten Free flour
+* ½	tsp baking soda
+* 2	cups Ghardelli Milk Chocolate Chips
 
 # Steps
 

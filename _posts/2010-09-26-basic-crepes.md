@@ -6,12 +6,12 @@ tags: ["desert"]
 ---
 # Ingredients
 
-2	cups flour
-2	cups milk
-4	eggs
-½	tsp vanilla (ignore if making savory crepe dish; keep if making a desert crepe dish)
-½	tsp salt
-1	tsp sugar (ignore if making a savory crepe dish)
+* 2	cups flour
+* 2	cups milk
+* 4	eggs
+* ½	tsp vanilla (ignore if making savory crepe dish; keep if making a desert crepe dish)
+* ½	tsp salt
+* 1	tsp sugar (ignore if making a savory crepe dish)
 
 # Steps
 

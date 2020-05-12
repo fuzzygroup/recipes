@@ -7,18 +7,18 @@ tags: ["salad", "gluten_free", "lentil", "goat_cheese"]
 
 # Ingredients
 
-2	cups/14 ounces green, brown or black lentils, rinsed and picked over
-1	small or ½ large onion, halved
-3	garlic cloves, minced
-1	bay leaf
-Salt
-¼	cup red wine vinegar or sherry vinegar
-⅓	cup extra-virgin olive oil
-¼	cup broth from the lentils
-3 to 4	ounces goat cheese (to taste), crumbled
-Black pepper
-¼	cup minced chives or parsley, or both
-2	cups wild or baby arugula
+* 2	cups/14 ounces green, brown or black lentils, rinsed and picked over
+* 1	small or ½ large onion, halved
+* 3	garlic cloves, minced
+* 1	bay leaf
+* Salt
+* ¼	cup red wine vinegar or sherry vinegar
+* ⅓	cup extra-virgin olive oil
+* ¼	cup broth from the lentils
+* 3 to 4	ounces goat cheese (to taste), crumbled
+* Black pepper
+* ¼	cup minced chives or parsley, or both
+* 2	cups wild or baby arugula
 
 # Steps
 

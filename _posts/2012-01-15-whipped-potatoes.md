@@ -7,11 +7,11 @@ tags: ["side_dish", "potato", "gluten_free"]
 
 # Ingredients
 
-4	lbs russet potatoes peeled and cut into 1" pieces
-1½	cups whole milk
-8	tbsp unsalted butter cut into pieces
-2	tsp salt
-½	tsp pepper
+* 4	lbs russet potatoes peeled and cut into 1" pieces
+* 1½	cups whole milk
+* 8	tbsp unsalted butter cut into pieces
+* 2	tsp salt
+* ½	tsp pepper
 
 # Steps
 

@@ -5,15 +5,15 @@ category: side_dish
 tags: ["side_dish", "potatoes", "bacon"]
 ---
 # Ingredients
-1	pound dried pinto beans, picked through
-½	pound bacon, cooked crispy and chopped
-1	onion, finely chopped
-1	tablespoon chili powder
-1	tablespoon Worcestershire sauce
-4	cups low-sodium chicken broth
-Kosher salt
-1	tablespoon apple cider vinegar
-2	tablespoons chopped fresh chives (optional)
+* 1	pound dried pinto beans, picked through
+* ½	pound bacon, cooked crispy and chopped
+* 1	onion, finely chopped
+* 1	tablespoon chili powder
+* 1	tablespoon Worcestershire sauce
+* 4	cups low-sodium chicken broth
+* Kosher salt
+* 1	tablespoon apple cider vinegar
+* 2	tablespoons chopped fresh chives (optional)
 # Steps
 Put the beans in a large wide pot or Dutch oven and cover with cold water by 1 inch. Bring to a boil, then remove from the heat and let soak 30 minutes; drain and rinse.
 

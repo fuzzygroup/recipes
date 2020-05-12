@@ -6,10 +6,10 @@ tags: ["side_dish", "sweet_potato", "gluten_free"]
 ---
 # Ingredients
 
-3	lbs sweet potatoes (about 6 medium), ends trimmed, peeled, rinsed and cut into ¾"-thick rounds
-2	T vegetable oil
-1	tsp table salt
-ground black pepper
+* 3	lbs sweet potatoes (about 6 medium), ends trimmed, peeled, rinsed and cut into ¾"-thick rounds
+* 2	T vegetable oil
+* 1	tsp table salt
+* ground black pepper
 
 # Steps
 

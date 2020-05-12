@@ -6,8 +6,8 @@ tags: ["desert", "ice_cream", "gluten_free"]
 ---
 # Ingredients
 
-4 to 6	very ripe bananas, frozen
-3	tbsp nutella
+* 4 to 6	very ripe bananas, frozen
+* 3	tbsp nutella
 
 # Steps
 

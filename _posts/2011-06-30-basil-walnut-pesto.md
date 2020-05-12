@@ -6,13 +6,13 @@ tags: ["sauce", "italian", "gluten_free"]
 ---
 # Ingredients
 
-2	cups packed basil leaves	(approx. 2 oz)
-⅓	cup olive oil
-½	cup finely chopped walnuts (optionally toast them)
-3	cloves garlic, minced or crushed
-½	cup grated parmesan cheese
-2	tablespoons softened butter (optional)
-½	teaspoon salt	(optional)
+* 2	cups packed basil leaves	(approx. 2 oz)
+* ⅓	cup olive oil
+* ½	cup finely chopped walnuts (optionally toast them)
+* 3	cloves garlic, minced or crushed
+* ½	cup grated parmesan cheese
+* 2	tablespoons softened butter (optional)
+* ½	teaspoon salt	(optional)
 
 # Steps
 
