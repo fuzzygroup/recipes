@@ -7,12 +7,12 @@ tags: ["gluten_free", "dessert"]
 
 # Ingredients
 
-2 cups Heavy cream
-4 large egg yolks
-½ cup sugar
-¼ tsp salt (a little less to be honest)
-4 tsp sugar for tops
-1½ tsp vanilla extract
+* 2 cups Heavy cream
+* 4 large egg yolks
+* ½ cup sugar
+* ¼ tsp salt (a little less to be honest)
+* 4 tsp sugar for tops
+* 1½ tsp vanilla extract
 
 # Steps
 

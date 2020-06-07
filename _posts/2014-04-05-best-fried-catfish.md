@@ -6,17 +6,17 @@ tags: ["main_course", "fish", "gluten_free"]
 ---
 # Ingredients
 
-2	cups buttermilk
-1	teaspoon hot sauce
-1⅓	cups cornmeal
-⅔	cups masa harina
-4	teaspoons salt
-2	teaspoons pepper
-2	teaspoons granulated garlic
-1	teaspoon cayenne pepper
-4	(6- to 8-ounce) catfish fillets, halved lengthwise along natural seam
-2	quarts peanut or vegetable oil
-Lemon wedges
+* 2	cups buttermilk
+* 1	teaspoon hot sauce
+* 1⅓	cups cornmeal
+* ⅔	cups masa harina
+* 4	teaspoons salt
+* 2	teaspoons pepper
+* 2	teaspoons granulated garlic
+* 1	teaspoon cayenne pepper
+* 4	(6- to 8-ounce) catfish fillets, halved lengthwise along natural seam
+* 2	quarts peanut or vegetable oil
+* Lemon wedges
 
 # Steps
 

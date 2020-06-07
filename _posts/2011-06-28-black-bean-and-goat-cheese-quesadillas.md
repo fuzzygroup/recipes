@@ -5,14 +5,14 @@ category: mexican
 tags: ["main_course", "mexican", "gluten_free"]
 ---
 # Ingredients
-1	16 oz can black beans drained and rinsed
-1	4 oz log goat cheese crumbled
-1½	cups shredded cheddar / monterey jack
-1	jalapeno chili seeded and minced
-¼	cup chopped fresh cilantro
-½	tsp salt
-1	tsp pepper
-8	corn tortillas
+* 1	16 oz can black beans drained and rinsed
+* 1	4 oz log goat cheese crumbled
+* 1½	cups shredded cheddar / monterey jack
+* 1	jalapeno chili seeded and minced
+* ¼	cup chopped fresh cilantro
+* ½	tsp salt
+* 1	tsp pepper
+* 8	corn tortillas
 
 # Steps
 

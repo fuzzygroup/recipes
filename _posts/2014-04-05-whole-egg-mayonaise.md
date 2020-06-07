@@ -7,11 +7,11 @@ tags: ["condiment", "gluten_free"]
 
 # Ingredients
 
-½	teaspoon dry mustard powder
-¼	teaspoon salt
-2	eggs
-2	tablespoons white vinegar
-2	cups vegetable oil
+* ½	teaspoon dry mustard powder
+* ¼	teaspoon salt
+* 2	eggs
+* 2	tablespoons white vinegar
+* 2	cups vegetable oil
 
 # Steps
 

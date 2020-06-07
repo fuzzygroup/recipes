@@ -6,10 +6,11 @@ tags: ["rice", "side_dish", "gluten_free"]
 ---
 
 # Ingredients
-1½	cups long grain white rice
-2	tbsp unsalted butter
-1	small onion, chopped fine
-2¾	cups chicken broth
+* 1½	cups long grain white rice
+* 2	tbsp unsalted butter
+* 1	small onion, chopped fine
+* 2¾	cups chicken broth
+
 # Steps
 1.  Put oven rack at middle position and heat oven to 350 degrees.  Place rice in fine mesh strainer set over large bowl.  Rinse under running water until water runs clear, about 1 minute.  Drain rice well.
 

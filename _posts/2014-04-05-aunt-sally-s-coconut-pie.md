@@ -6,13 +6,13 @@ tags: ["desert", "pie", "coconut", "gluten_free"]
 ---
 # Ingredients
 
-1	Gluten Free Pie Crust
-4	large eggs
-1⅔	cups sugar
-11	tbsp unsalted butter, melted
-1	tbsp distilled white vinegar
-1	tsp vanilla
-1	cup sweetened, flaked coconut
+* 1	Gluten Free Pie Crust
+* 4	large eggs
+* 1⅔	cups sugar
+* 11	tbsp unsalted butter, melted
+* 1	tbsp distilled white vinegar
+* 1	tsp vanilla
+* 1	cup sweetened, flaked coconut
 
 # Settings
 

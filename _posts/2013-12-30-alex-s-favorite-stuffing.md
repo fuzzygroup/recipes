@@ -6,11 +6,11 @@ tags: ["holiday", "side_dish"]
 ---
 # Ingredients
 
-1	package stuffing mix
-2	diced onions
-Large handful of diced mushrooms
-Little smokies, 1 pkg, diced.
-Chicken broth
+* 1	package stuffing mix
+* 2	diced onions
+* Large handful of diced mushrooms
+* Little smokies, 1 pkg, diced.
+* Chicken broth
 
 # Steps
 

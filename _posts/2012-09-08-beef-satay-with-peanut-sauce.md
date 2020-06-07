@@ -4,32 +4,32 @@ title: Beef Satay with Peanut Sauce
 category: appetizer
 tags: ["appetizer", "asian", "gluten_free"]
 ---
-# Ingredients
+## Ingredients
 
 Beef Satay Ingredients
-1½	pounds flank steak or london broil
-Wooden skewers
-¼	cup soy sauce
-¼	cup vegetable oil
-2	tbsp sriracha
-¼	cup packed dark brown sugar
-¼	cup minced fresh cilantro
-2	medium garlic cloves minced
-4	scallions, white and green parts sliced thin
-Peanut Sauce Ingredients
-½	cup creamy peanut butter (Jif)
-¼	cup hot water
-1	tbsp soy sauce
-2	tbsp juice from 1 lime
-2	tbsp sriracha
-1	tbsp dark brown sugar
-1	clove garlic minced
-1	tbsp chopped cilantro
-2	scallion white and green parts sliced thin
+* 1½	pounds flank steak or london broil
+* Wooden skewers
+* ¼	cup soy sauce
+* ¼	cup vegetable oil
+* 2	tbsp sriracha
+* ¼	cup packed dark brown sugar
+* ¼	cup minced fresh cilantro
+* 2	medium garlic cloves minced
+* 4	scallions, white and green parts sliced thin
+* Peanut Sauce Ingredients
+* ½	cup creamy peanut butter (Jif)
+* ¼	cup hot water
+* 1	tbsp soy sauce
+* 2	tbsp juice from 1 lime
+* 2	tbsp sriracha
+* 1	tbsp dark brown sugar
+* 1	clove garlic minced
+* 1	tbsp chopped cilantro
+* 2	scallion white and green parts sliced thin
 
-# Steps
+## Steps
 
-Beef Satay Directions
+### Beef Satay Directions
 
 1.  Cut the steak in half lengthwise and freeze for 30 minutes.
 2.  Combine soy sauce, oil, chili sauce, brown sugar, cilantro, garlic and scallions in measuring cup and set aside. 
@@ -37,7 +37,7 @@ Beef Satay Directions
 4.  Adjust an oven rack to the top position and heat the broiler.  Lay the skewers on a wire rack set over a rimmed baking sheet and cover the skewer ends with foil.  
 5.  Broil for 6 to 7 minutes, flipping half way through until browned.  Serve immediately with the peanut sauce.
 
-Peanut Sauce Directions
+### Peanut Sauce Directions
 
 1.  Whisk peanut butter and hot water together in a medium bowl.  
 2.  Add remaining ingredients

@@ -6,13 +6,13 @@ tags: ["bread"]
 ---
 # Ingredients
 
-3	cups (15 oz) unbleached all-purpose flour, plus extra for the work surface
-¼	t rapid-rise or instant yeast
-1	t salt
-¾	cup water, room temperature
-½	cup mild-flavored beer, room temperature
-1	T white vinegar
-vegetable oil spray
+* 3	cups (15 oz) unbleached all-purpose flour, plus extra for the work surface
+* ¼	t rapid-rise or instant yeast
+* 1	t salt
+* ¾	cup water, room temperature
+* ½	cup mild-flavored beer, room temperature
+* 1	T white vinegar
+* vegetable oil spray
 
 # Steps
 

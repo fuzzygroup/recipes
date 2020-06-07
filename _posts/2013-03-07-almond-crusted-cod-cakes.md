@@ -4,21 +4,21 @@ title: Almond Crusted Cod Cakes
 category: main_course
 tags: ["fish", "main_course", "gluten_free"]
 ---
-# Ingredients
+## Ingredients
 
-Cakes:
-1	lb cod
-½	cup red onion – fine dice
-2	tbsp chives
-2	tbsp capers – chopped
-2	tbsp Dijon mustard
-6	tbsp olive oil (2 – saute onion, 4- saute cakes)
-¼	tsp salt
-½	tsp pepper
-Coating:
-2	cups almond meal*
-2	organic eggs – beaten
-pinch S&P
+### Cakes:
+* 1	lb cod
+* ½	cup red onion – fine dice
+* 2	tbsp chives
+* 2	tbsp capers – chopped
+* 2	tbsp Dijon mustard
+* 6	tbsp olive oil (2 – saute onion, 4- saute cakes)
+* ¼	tsp salt
+* ½	tsp pepper
+### Coating:
+* 2	cups almond meal*
+* 2	organic eggs – beaten
+* pinch S&P
 
 # Steps
 

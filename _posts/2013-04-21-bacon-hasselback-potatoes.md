@@ -6,14 +6,14 @@ tags: ["side_dish", "potatoes", "bacon"]
 ---
 
 # Ingredients
-4	slices thick-cut bacon, each cut crosswise into 9 pieces
-Kosher salt
-12	medium Yukon gold potatoes, peeled
-1	stick unsalted butter
-Sea salt and freshly ground pepper
-2	scallions, finely chopped
-2	tablespoons finely chopped fresh parsley
-1	clove garlic, finely chopped
+* 4	slices thick-cut bacon, each cut crosswise into 9 pieces
+* Kosher salt
+* 12	medium Yukon gold potatoes, peeled
+* 1	stick unsalted butter
+* Sea salt and freshly ground pepper
+* 2	scallions, finely chopped
+* 2	tablespoons finely chopped fresh parsley
+* 1	clove garlic, finely chopped
 
 # Steps
 

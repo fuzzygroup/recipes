@@ -6,15 +6,17 @@ tags: ["main_course", "vegetarian", "gluten_free"]
 ---
 # Ingredients
 
-	Note: Make up your own corn muffin mix with almond flour and corn meal if serving as gluten free. See delicious link for details.
-1-½	cups prepared salsa
-1	jalapeño pepper
-2	15-oz. cans black beans, rinsed and drained
-1	8.5-oz. pkg. corn muffin mix (Jiffy is best AND cheap!)
-2-½	tsp. chili powder
-2	Tbsp. olive oil
-½	cup sour cream
-½	tsp. chili powder
+Note: Make up your own corn muffin mix with almond flour and corn meal if serving as gluten free. See delicious link for details.
+
+* 1-½	cups prepared salsa
+* 1	jalapeño pepper
+* 2	15-oz. cans black beans, rinsed and drained
+* 1	8.5-oz. pkg. corn muffin mix (Jiffy is best AND cheap!)
+* 2-½	tsp. chili powder
+* 2	Tbsp. olive oil
+* ½	cup sour cream
+* ½	tsp. chili powder
+
 Note: I usually omit the jalapeno because I don't like spicy food, either way I am sure you'll enjoy it.
 
 # Steps

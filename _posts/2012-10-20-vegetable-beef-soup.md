@@ -7,24 +7,24 @@ tags: ["soup", "gluten_free"]
 
 # Ingredients
 
-1	tbsp vegetable oil
-1.5	pounds round steak cut into 1 inch pieces or 1.5 pounds boneless beef ribs
-1	yellow onion chopped
-4	cloves garlic minced
-2	chopped carrots
-1	bell pepper
-4	cups beef stock
-3	cups tomato juice
-1	can 14.5 oz diced tomatoes with juice
-1	tsp chili powder
-1	tsp soy sauce gluten free
-1	tsp Worcestershire sauce gluten free
-½	tsp dried thyme
-1	bay leaf
-1¼	tsp sa;t
-Pepper to taste
-1.5	cups corn kernels fresh or frozen or canned
-Parmesan cheese for topping
+* 1	tbsp vegetable oil
+* 1.5	pounds round steak cut into 1 inch pieces or 1.5 pounds boneless beef ribs
+* 1	yellow onion chopped
+* 4	cloves garlic minced
+* 2	chopped carrots
+* 1	bell pepper
+* 4	cups beef stock
+* 3	cups tomato juice
+* 1	can 14.5 oz diced tomatoes with juice
+* 1	tsp chili powder
+* 1	tsp soy sauce gluten free
+* 1	tsp Worcestershire sauce gluten free
+* ½	tsp dried thyme
+* 1	bay leaf
+* 1¼	tsp sa;t
+* Pepper to taste
+* 1.5	cups corn kernels fresh or frozen or canned
+* Parmesan cheese for topping
 
 # Steps
 
