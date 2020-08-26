@@ -37,3 +37,4 @@ Ratatouille is a stew so it can be made infinite ways.  This version leaves the 
 ## References
 
 * [Fine Cooking](https://www.finecooking.com/recipe/roasted-ratatouille)
+* [Cookie and Kate](https://cookieandkate.com/best-ratatouille-recipe/)

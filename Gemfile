@@ -7,7 +7,7 @@ group :jekyll_plugins do
   gem 'github-pages'
   gem "jekyll-compose"
   gem 'jekyll-seo-tag'
-  gem 'jekyll-lunr-js-search'
+  #gem 'jekyll-lunr-js-search'
   gem 'jekyll-tagging'
   gem 'jekyll-sitemap'
   #gem 'jekyll-gallery-generator'
