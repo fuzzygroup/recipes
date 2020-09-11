@@ -15,7 +15,7 @@ This is a recipe that I came up with after having a similar dish in a Mediterran
 * Shredded Lettuce
 * Garbanzo beans
 * Diced Dill Pickles
-* Garlic Yogurt Sauce
+* [Garlic Yogurt Sauce](https://fuzzyblog.io/recipes/mediterranean/2020/09/11/gluten-free-mediterranean-garlic-sauce.html)
 * Tahini (optional)
 * A protein (I used sliced Rib Eye steak that I had cooked the night before) but steak / chicken / shrimp / gyro meat
 

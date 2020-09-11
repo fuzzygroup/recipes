@@ -23,4 +23,4 @@ Yes the main ingredient is Zucchini and yes they actually taste like crab cakes 
 1. Shred the zucchini in a food processor if at all possible.
 2. Blend all ingredients using a stand mixer.
 3. Pan fry in olive oil (or, better yet, dunk in a fryer for about 3 minutes at 356).
-4. Serve with remoulade sauce.
+4. Serve with [remoulade sauce](https://fuzzyblog.io/recipes/appetizer/2020/09/11/gluten-free-remoulade-sauce.html).

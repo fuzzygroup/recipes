@@ -9,7 +9,7 @@ This is a recipe but, honestly, it is more like jazz improv.  You can make this 
 ## Ingredients
 
 * A cooked starch like Spanish Rice (or white rice; whatever you have on hand); I have a recipe for this
-* A cooked protein like Shrimp, Chicken, Taco Meat, Carnitas, etc shredded into bite size pieces (I used Scott's Sizzling Garlic Chile Lime Shrimp once to great aclaim)
+* A cooked protein like Shrimp, Chicken, Taco Meat, Carnitas, etc shredded into bite size pieces (I used [Scott's Sizzling Garlic Chile Lime Shrimp](https://fuzzyblog.io/recipes/mexican/2020/09/11/scott-s-gluten-free-sizzling-garlic-chile-lime-shrimp.html) once to great acclaim)
 * A can of beans like pinto beans or black beans or great northern beans (use one can per every two bowls you are making)
 * Diced onion
 * Diced peppers like poblano / jalapeno / banana
