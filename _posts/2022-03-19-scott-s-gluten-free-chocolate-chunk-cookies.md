@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Scott's Gluten Free Chocolate Chunk Cookies
-title: Gluten Free Chicken a la King
 category: dessert
 tags: ["gluten_free", "dessert", "cookie"]
 ---

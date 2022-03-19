@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gluten Free Irish Sode Bread
+title: Gluten Free Irish Soda Bread
 tags: ["gluten_free", "bread", "irish"]
 ---
 ## Ingredients

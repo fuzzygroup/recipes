@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gluten Free Oklahoma Friend Onion Burgers
+title: Gluten Free Oklahoma Fried Onion Burgers
 tags: ["gluten_free", "main_course", "burgers"]
 ---
 ## Ingredients

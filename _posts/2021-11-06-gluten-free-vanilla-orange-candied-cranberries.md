@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gluten Free Vanilla Orange Candied Cranberries
+title: Gluten Free Christmas Candy - Vanilla Orange Candied Cranberries
 tags: ["gluten_free", "christmas", "christmas_candy"]
 ---
 ## Ingredients

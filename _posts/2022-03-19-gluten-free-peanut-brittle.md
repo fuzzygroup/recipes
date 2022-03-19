@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gluten Free Peanut Brittle
+title: Gluten Free Christmas Candy - Peanut Brittle
 category: dessert
 tags: ["gluten_free", "dessert", "candy", "holiday"]
 ---
