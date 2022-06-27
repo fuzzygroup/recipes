@@ -8,7 +8,7 @@ This is very much an impromptu recipe -- I whipped it together from things on ha
 
 ## Ingredients
 
-* 1.5 large tubs of cool whip
+* 1.5 large tubs of cool whip -- or an equivalent amount of whip cream.  This would ruin the fat free nature but, well, that's kind of joyful; fat free desserts are, after all, an oxymoron.
 * 1 small package of vanilla pudding
 * 4 ripe peaches diced / a container of strawberries / other fruit; if you use strawberries then macerate them with sugar first
 * 1 8 ounce container of Trader Joe's meringue cookies
